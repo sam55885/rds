@@ -1,0 +1,3 @@
+cd C:\Users\ARSHAD\eclipse-workspace
+java -cp lib\*;bin org.testng.testNG testng.xml 
+pause
